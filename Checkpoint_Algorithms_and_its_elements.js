@@ -17,5 +17,5 @@ function insertionSort(arr) {
     }
     return arr;
 }
-let arr = [3,0,1,5,7]
+let arr = [3,0,1,2,5,7]
 console.log(insertionSort(arr))
